@@ -1,4 +1,4 @@
-![Banner]([https://c4.wallpaperflare.com/wallpaper/107/856/884/black-white-programming-programming-language-python-programming-hd-wallpaper-preview.jpg])
+![Banner](https://cdn.discordapp.com/attachments/655300196976164896/1151571662152683561/HD_wallpaper__black_white_programming_programming_language_Python_programming.jpeg)
 
 ### Olá! Eu sou André Luiz, mais conhecido como Deep 👋
 <br>
