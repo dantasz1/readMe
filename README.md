@@ -4,5 +4,6 @@
 <br>
 
  - Estou estudando apenas JavaScript e Logica de programação.
- - 📫 Como chegar até mim: Minhas redes sociais!
-  /**Discord:** deepzao<br> :)
+ - 📫 Como chegar até mim:
+![Discord](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  <a href="https://discord.gg/deepzao">
