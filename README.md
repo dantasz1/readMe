@@ -4,6 +4,7 @@
 <br>
 
  - 🌴 Estou estudando apenas JavaScript e Logica de programação.
+ - **Discord :** deepzao
    
 ### Linguagens
 <div style="display: inline_block">
