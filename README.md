@@ -16,4 +16,7 @@
 <div> 
   <a href="https://www.instagram.com/dantas_z1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/deepinho1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantasz1)](https://github.com/dantasz1/github-readme-stats)
+  
  
