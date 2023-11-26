@@ -1,5 +1,6 @@
-![Banner](![Uploading gif dev.gif…]()
-)
+
+![Uploading gif dev.gif…]()
+
 
 ### Olá! Eu sou André Luiz, mais conhecido como Deep 👋
 <br>
