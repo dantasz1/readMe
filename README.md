@@ -1,4 +1,5 @@
-![Banner](https://cdn.discordapp.com/attachments/655300196976164896/1151571662152683561/HD_wallpaper__black_white_programming_programming_language_Python_programming.jpeg)
+![Banner](![Uploading gif dev.gif…]()
+)
 
 ### Olá! Eu sou André Luiz, mais conhecido como Deep 👋
 <br>
