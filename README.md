@@ -4,7 +4,7 @@
 
 
 
--  Estou estudando apenas JavaScript e Logica de programação.🖊️ 
+-  Focado nos estudos .🖊️ 
  
    
 ### Linguagens que eu uso no meu dia :
