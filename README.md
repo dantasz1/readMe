@@ -1,14 +1,13 @@
+### Olá, Eu sou o André Luiz 👋
 
-![Uploading gif dev.gif…]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantasz1&show_icons=true&theme=onedark)
 
 
-### Olá! Eu sou André Luiz, mais conhecido como Deep 👋
-<br>
 
- - 🌴 Estou estudando apenas JavaScript e Logica de programação.
- - **Discord :** deepzao
+-  Estou estudando apenas JavaScript e Logica de programação.🖊️ 
+ 
    
-### Linguagens
+### Linguagens que eu uso no meu dia :
 <div style="display: inline_block">
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
