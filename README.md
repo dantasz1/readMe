@@ -4,7 +4,7 @@
 
 - 🚀 Iniciante em Desenvolvimento Web Front-End, buscando expandir conhecimentos para mergulhar no universo FullStack
   
--📚 Comprometido em aprimorar habilidades para superar desafios e crescer profissionalmente.🖊️
+- 📚 Comprometido em aprimorar habilidades para superar desafios e crescer profissionalmente🖊️
 
 
    
