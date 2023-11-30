@@ -1,9 +1,8 @@
 ### Olá, Eu sou o André Luiz 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantasz1&show_icons=true&theme=onedark)
-
-
-
+ - 🚀 Iniciante em Desenvolvimento Web Front-End, buscando expandir conhecimentos para mergulhar no universo FullStack.
+ -📚 Comprometido em aprimorar habilidades para superar desafios e crescer profissionalmente.
 -  Focado nos estudos .🖊️ 
  
    
