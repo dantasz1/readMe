@@ -1,6 +1,5 @@
 ### Olá, Eu sou o André Luiz 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantasz1&show_icons=true&theme=onedark)
 
 - 🚀 Iniciante em Desenvolvimento Web Front-End, buscando expandir conhecimentos para mergulhar no universo FullStack
   
@@ -18,6 +17,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantasz1&show_icons=true&theme=onedark)
  
 ### Minhas Redes Sociais
 <div> 
